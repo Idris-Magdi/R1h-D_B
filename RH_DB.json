@@ -12,7 +12,7 @@
       "name": "خالف تُعرف",
       "media_type": "article",
       "parent_id": null,
-      "order": 0
+      "order": 2
     },
     {
       "id": "7c510860-4390-4884-a123-43ea1897e12c",
@@ -44,15 +44,22 @@
     },
     {
       "id": "72d8cb50-24fb-499a-9251-bb45b68bc6b7",
-      "name": "Dance",
+      "name": "Us",
       "media_type": "reel",
       "parent_id": null,
       "order": 0
     },
     {
-      "id": "007d6842-0021-44e3-820d-b80f4155c423",
-      "name": "Us",
-      "media_type": "reel",
+      "id": "ce831d9b-e65c-4d77-92bf-2844cef0bbc7",
+      "name": "Erotic",
+      "media_type": "article",
+      "parent_id": null,
+      "order": 0
+    },
+    {
+      "id": "9918b8d1-f943-4aa0-9aca-88a78272ab95",
+      "name": "Sex",
+      "media_type": "article",
       "parent_id": null,
       "order": 1
     }
