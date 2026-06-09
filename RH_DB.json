@@ -15,18 +15,32 @@
       "order": 0
     },
     {
-      "id": "285813c2-241d-4c7c-b77d-773bd251394b",
-      "name": "Us",
-      "media_type": "video",
-      "parent_id": null,
-      "order": 1
-    },
-    {
       "id": "da43563f-329c-402d-9dfa-4f4af0c0b0db",
       "name": "خالف تُعرف",
       "media_type": "article",
       "parent_id": null,
       "order": 0
+    },
+    {
+      "id": "7c510860-4390-4884-a123-43ea1897e12c",
+      "name": "Lesbian",
+      "media_type": "video",
+      "parent_id": null,
+      "order": 2
+    },
+    {
+      "id": "16b40b79-a9cd-4e2a-8485-00df603dcdaf",
+      "name": "Gays",
+      "media_type": "video",
+      "parent_id": null,
+      "order": 3
+    },
+    {
+      "id": "62496ee9-98b4-47dc-b5a6-795b0c577a4e",
+      "name": "Straight",
+      "media_type": "video",
+      "parent_id": null,
+      "order": 4
     }
   ],
   "items": [
