@@ -13,6 +13,13 @@
       "media_type": "photo",
       "parent_id": null,
       "order": 0
+    },
+    {
+      "id": "285813c2-241d-4c7c-b77d-773bd251394b",
+      "name": "Us",
+      "media_type": "video",
+      "parent_id": null,
+      "order": 1
     }
   ],
   "items": [
