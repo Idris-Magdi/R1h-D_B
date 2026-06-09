@@ -124,11 +124,11 @@
       }
     ],
     "hero_images": [
-      "https://realhub.idrismagdi.workers.dev/Hero/1.jpg",
-      "https://realhub.idrismagdi.workers.dev/Hero/2.jpeg",
-      "https://realhub.idrismagdi.workers.dev/Hero/3.jpg",
-      "https://realhub.idrismagdi.workers.dev/Hero/4.jpg",
-      "https://realhub.idrismagdi.workers.dev/Hero/5.jpg"
+      "Hero/1.jpg",
+      "Hero/2.jpeg",
+      "Hero/3.jpg",
+      "Hero/4.jpg",
+      "Hero/5.jpg"
     ]
   }
 }
