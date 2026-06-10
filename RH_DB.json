@@ -104,9 +104,33 @@
       "media_type": "video",
       "parent_id": "1001f8e9-6612-4f00-af1f-5387f8a501cb",
       "order": 1
+    },
+    {
+      "id": "fa684a7d-3b11-4bbe-9fda-cd9e1f1af4c5",
+      "name": "Tamino",
+      "media_type": "music",
+      "parent_id": null,
+      "order": 0
     }
   ],
   "items": [
+    {
+      "id": "6680331f-bfae-4bc6-abd0-0de3f563f42b",
+      "media_type": "music",
+      "section_id": "fa684a7d-3b11-4bbe-9fda-cd9e1f1af4c5",
+      "title": "Indigo Night",
+      "terabox_link": "https://youtu.be/3wVTmlD86a8?si=t5dM7J5aWhCOmA0F",
+      "description": "Imagine, the girls around town assemble\nThe traveler’s son they come askin’\nWhere he came from\n‘Cause they’ve watched him\nWashing his face near the pond\nA curious boy, and they wonder\nWhere he came from\n \nHe says:\n“I, I have seen the world’s most beautiful places,\nstill I feel as If I’m a walking machine\nWatching it all through a screen,\nthere ain’t nothing in between\nTo me, this might as well not be real”\n \nImagine, the girls take him up on a hillI\nIt’s an indigo night, there’s a chill\nThe boy is confused but he’s still\nAs they gather around him\nSo many of them, they all sing\n‘bout the pleasures of life\n \nAnd he cries:\n„Why can’t I sing along with some feeling, or some meaning?\nIt feels like I’ve always been blind\nI don’t know why you girls are so kind\nfor there are so many in line\nwhose lives aren’t as lost as mine”\n \nNow something happened there\nThe smell of the grass, or maybe the air\nThere was no more despair\nJust something about that night\nMaybe the girls, they lit some light, and made everything right\n‘Cause he’s never been\nmore alive",
+      "thumbnail_url": "https://i.ytimg.com/vi/3wVTmlD86a8/maxresdefault.jpg",
+      "created_at": "2026-06-10T07:03:33.624Z",
+      "album_id": null,
+      "article_body": null,
+      "related_ids": [],
+      "attachments": [],
+      "extra_links": [],
+      "pinned": false,
+      "order": 0
+    },
     {
       "id": "4cf340a9-0b4d-46e7-910a-a3d47ab921dd",
       "media_type": "photo",
