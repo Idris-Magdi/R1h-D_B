@@ -562,7 +562,7 @@
     }
   ],
   "settings": {
-    "home_feed_limit": 25,
+    "home_feed_limit": 10,
     "related_feed_limit": 10,
     "social_links": [
       {
