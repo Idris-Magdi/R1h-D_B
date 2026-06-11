@@ -326,7 +326,7 @@
       "related_ids": [],
       "attachments": [],
       "extra_links": [],
-      "pinned": false,
+      "pinned": true,
       "order": 0
     },
     {
@@ -394,7 +394,7 @@
       "related_ids": [],
       "attachments": [],
       "extra_links": [],
-      "pinned": false,
+      "pinned": true,
       "order": 1
     },
     {
@@ -598,7 +598,7 @@
       "related_ids": [],
       "attachments": [],
       "extra_links": [],
-      "pinned": true,
+      "pinned": false,
       "order": 0
     },
     {
