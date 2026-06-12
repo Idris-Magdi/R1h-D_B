@@ -47,7 +47,7 @@
       "name": "Us",
       "media_type": "reel",
       "parent_id": null,
-      "order": 0
+      "order": 1
     },
     {
       "id": "ce831d9b-e65c-4d77-92bf-2844cef0bbc7",
@@ -180,7 +180,7 @@
       "name": "Dance",
       "media_type": "reel",
       "parent_id": null,
-      "order": 1
+      "order": 0
     },
     {
       "id": "4f37842d-1073-42ab-803d-0a39cd6a0fca",
