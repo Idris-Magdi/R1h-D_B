@@ -19,21 +19,21 @@
       "name": "Straight",
       "media_type": "video",
       "parent_id": null,
-      "order": 2
+      "order": 0
     },
     {
       "id": "16b40b79-a9cd-4e2a-8485-00df603dcdaf",
       "name": "Lesbian",
       "media_type": "video",
       "parent_id": null,
-      "order": 3
+      "order": 1
     },
     {
       "id": "62496ee9-98b4-47dc-b5a6-795b0c577a4e",
       "name": "Gays",
       "media_type": "video",
       "parent_id": null,
-      "order": 4
+      "order": 2
     },
     {
       "id": "06cc440c-5257-43a4-9edb-478ce9d4bcd5",
@@ -89,7 +89,7 @@
       "name": "Strap-on",
       "media_type": "video",
       "parent_id": null,
-      "order": 5
+      "order": 3
     },
     {
       "id": "d424764c-0ff0-414c-9318-0546cc628846",
@@ -265,7 +265,7 @@
       "attachments": [],
       "extra_links": [],
       "pinned": true,
-      "order": 13
+      "order": 0
     },
     {
       "id": "eed2fbff-0950-46cd-95f6-c9e36022d183",
@@ -1102,7 +1102,7 @@
       "attachments": [],
       "extra_links": [],
       "pinned": false,
-      "order": 12
+      "order": 1
     },
     {
       "id": "ace00bcf-8b3b-4d9f-97a7-4c2daa25147b",
@@ -1170,7 +1170,7 @@
       "attachments": [],
       "extra_links": [],
       "pinned": false,
-      "order": 11
+      "order": 3
     },
     {
       "id": "23a00b3b-8eb4-4b27-bc95-fe1b5cb6f469",
@@ -1187,7 +1187,7 @@
       "attachments": [],
       "extra_links": [],
       "pinned": false,
-      "order": 10
+      "order": 2
     },
     {
       "id": "29cb2e8c-4ed3-4073-9f76-3c3697c715e7",
@@ -1204,7 +1204,7 @@
       "attachments": [],
       "extra_links": [],
       "pinned": false,
-      "order": 9
+      "order": 4
     },
     {
       "id": "84baf24a-39fc-429d-b12d-dc80acb6d90d",
@@ -1272,7 +1272,7 @@
       "attachments": [],
       "extra_links": [],
       "pinned": false,
-      "order": 7
+      "order": 5
     },
     {
       "id": "1e007017-ea0a-4b1a-ad54-3eeb2c928048",
@@ -1459,7 +1459,7 @@
       "attachments": [],
       "extra_links": [],
       "pinned": false,
-      "order": 5
+      "order": 7
     },
     {
       "id": "f32ac29b-75d3-464d-bd09-68026e454c98",
@@ -1476,7 +1476,7 @@
       "attachments": [],
       "extra_links": [],
       "pinned": false,
-      "order": 4
+      "order": 8
     },
     {
       "id": "e6520421-b6c4-4846-b74c-b8e737da4c8e",
@@ -1493,7 +1493,7 @@
       "attachments": [],
       "extra_links": [],
       "pinned": false,
-      "order": 3
+      "order": 9
     },
     {
       "id": "593c0a1b-6551-43c6-b03e-a30c59c8e353",
@@ -1510,7 +1510,7 @@
       "attachments": [],
       "extra_links": [],
       "pinned": false,
-      "order": 2
+      "order": 10
     },
     {
       "id": "e9281a32-3f02-4599-81c8-91f194027ace",
@@ -1527,7 +1527,7 @@
       "attachments": [],
       "extra_links": [],
       "pinned": false,
-      "order": 1
+      "order": 11
     },
     {
       "id": "6680331f-bfae-4bc6-abd0-0de3f563f42b",
@@ -1595,7 +1595,7 @@
       "attachments": [],
       "extra_links": [],
       "pinned": false,
-      "order": 0
+      "order": 12
     }
   ],
   "settings": {
