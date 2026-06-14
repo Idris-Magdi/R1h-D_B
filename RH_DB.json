@@ -265,9 +265,57 @@
       "media_type": "photo",
       "parent_id": null,
       "order": 4
+    },
+    {
+      "id": "9eabc885-6a62-4a50-a17a-716761bcf3ee",
+      "name": "Drawings",
+      "media_type": "photo",
+      "parent_id": "440f1718-3fb2-4989-ab46-2f2ef0e8f43e",
+      "order": 0
+    },
+    {
+      "id": "939a85fd-7e76-41b5-916a-3839f9f2b7fc",
+      "name": "Drawings",
+      "media_type": "photo",
+      "parent_id": "a7e15516-ed85-41ee-b41b-bf36df53effb",
+      "order": 0
     }
   ],
   "items": [
+    {
+      "id": "c60556f0-b251-4531-8168-669db2dc0e5e",
+      "media_type": "photo",
+      "section_id": "939a85fd-7e76-41b5-916a-3839f9f2b7fc",
+      "title": "NoName1 - ART",
+      "terabox_link": "https://imagex1.sx.cdn.live/images/pinporn/2014/05/11/5966428.jpg",
+      "description": null,
+      "thumbnail_url": null,
+      "created_at": "2026-06-14T11:33:41.707Z",
+      "album_id": null,
+      "article_body": null,
+      "related_ids": [],
+      "attachments": [],
+      "extra_links": [],
+      "pinned": false,
+      "order": 0
+    },
+    {
+      "id": "97cf2b46-daa6-47a1-8195-5ea350c0a320",
+      "media_type": "photo",
+      "section_id": "9eabc885-6a62-4a50-a17a-716761bcf3ee",
+      "title": "The Vulva Drawing by Walter White | Saatchi Art",
+      "terabox_link": "https://images.saatchiart.com/saatchi/1882775/art/8864308/7927676-HSC00923-7.jpg",
+      "description": null,
+      "thumbnail_url": null,
+      "created_at": "2026-06-14T11:31:09.388Z",
+      "album_id": null,
+      "article_body": null,
+      "related_ids": [],
+      "attachments": [],
+      "extra_links": [],
+      "pinned": false,
+      "order": 0
+    },
     {
       "id": "8cdf5630-378d-4694-b524-45c277593658",
       "media_type": "photo",
