@@ -279,6 +279,20 @@
       "media_type": "photo",
       "parent_id": "a7e15516-ed85-41ee-b41b-bf36df53effb",
       "order": 0
+    },
+    {
+      "id": "6c05c158-ac63-458b-b534-2d0ff0a92b16",
+      "name": "Artists",
+      "media_type": "photo",
+      "parent_id": null,
+      "order": 5
+    },
+    {
+      "id": "bb4b8aa4-d1e9-4ee2-9472-db3f66a819a1",
+      "name": "Julian Hsiung",
+      "media_type": "photo",
+      "parent_id": "6c05c158-ac63-458b-b534-2d0ff0a92b16",
+      "order": 0
     }
   ],
   "items": [
