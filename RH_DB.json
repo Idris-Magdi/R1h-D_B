@@ -251,9 +251,57 @@
       "media_type": "video",
       "parent_id": "cddca8f5-1f70-4ecb-ad10-e68e47cd6396",
       "order": 1
+    },
+    {
+      "id": "b61b0c9c-e90b-488b-93bd-70af54e4ae40",
+      "name": "Statues",
+      "media_type": "photo",
+      "parent_id": null,
+      "order": 3
+    },
+    {
+      "id": "191b73df-80e1-431e-9e00-1bbf927898a4",
+      "name": "Paintings",
+      "media_type": "photo",
+      "parent_id": null,
+      "order": 4
     }
   ],
   "items": [
+    {
+      "id": "8cdf5630-378d-4694-b524-45c277593658",
+      "media_type": "photo",
+      "section_id": "191b73df-80e1-431e-9e00-1bbf927898a4",
+      "title": "The Last Supper",
+      "terabox_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX-uKi7FtQB5dHpuJ3ELrNZuWSWhTDtoQxqcS2CTpvRw&s=10",
+      "description": "The Last Supper (Italian: Il Cenacolo [il tʃeˈnaːkolo] or L'Ultima Cena [ˈlultima ˈtʃeːna]) is a mural painting by the Italian High Renaissance artist Leonardo da Vinci, dated to c. 1495–1498, housed in the refectory of the Convent of Santa Maria delle Grazie in Milan, Italy. The painting represents the scene of the Last Supper of Jesus with the Twelve Apostles, as it is told in the Gospel of John – specifically the moment after Jesus announces that one of his apostles will betray him.[1] Its handling of space, mastery of perspective, treatment of motion and complex display of human emotion has made it one of the Western world's most recognizable paintings and among Leonardo's most celebrated works.[2] Some commentators consider it pivotal in inaugurating the transition into what is now termed the High Renaissance.",
+      "thumbnail_url": null,
+      "created_at": "2026-06-14T11:23:58.962Z",
+      "album_id": null,
+      "article_body": null,
+      "related_ids": [],
+      "attachments": [],
+      "extra_links": [],
+      "pinned": false,
+      "order": 0
+    },
+    {
+      "id": "54ec8fa1-0387-499f-9b0b-d5439407ed17",
+      "media_type": "photo",
+      "section_id": "b61b0c9c-e90b-488b-93bd-70af54e4ae40",
+      "title": "David",
+      "terabox_link": "https://www.albayan.ae/assets/archives/images/2021/10/27/4281376.jpg",
+      "description": null,
+      "thumbnail_url": null,
+      "created_at": "2026-06-14T11:20:55.483Z",
+      "album_id": null,
+      "article_body": null,
+      "related_ids": [],
+      "attachments": [],
+      "extra_links": [],
+      "pinned": false,
+      "order": 0
+    },
     {
       "id": "be35c21e-08c0-48d4-a6f7-5be54bde15a4",
       "media_type": "photo",
