@@ -440,9 +440,33 @@
       "media_type": "video",
       "parent_id": "d63d66cf-b87b-4d1f-974f-038f177ab967",
       "order": 5
+    },
+    {
+      "id": "e92edf1f-dd6e-4079-9250-d74327d629af",
+      "name": "Lana Del Rey",
+      "media_type": "music",
+      "parent_id": null,
+      "order": 3
     }
   ],
   "items": [
+    {
+      "id": "d296ae47-9528-428f-bf1b-5c25e3967aa7",
+      "media_type": "music",
+      "section_id": "e92edf1f-dd6e-4079-9250-d74327d629af",
+      "title": "Born To Die",
+      "terabox_link": "https://music.youtube.com/watch?v=bNCcdqr9Hh4&si=vlg6OXwuSI9WRoDN",
+      "description": null,
+      "thumbnail_url": null,
+      "created_at": "2026-06-19T19:01:42.453Z",
+      "album_id": null,
+      "article_body": null,
+      "related_ids": [],
+      "attachments": [],
+      "extra_links": [],
+      "pinned": false,
+      "order": 0
+    },
     {
       "id": "86b48a7a-f3da-4596-aec2-68ebf8677be2",
       "media_type": "video",
