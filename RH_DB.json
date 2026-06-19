@@ -363,9 +363,40 @@
       "media_type": "reel",
       "parent_id": "52ae03f6-80ea-4c6f-bbd8-8aa9aa069a0f",
       "order": 0
+    },
+    {
+      "id": "f275707f-c17a-438b-90e3-5a153442d2a9",
+      "name": "Creative",
+      "media_type": "video",
+      "parent_id": null,
+      "order": 3
+    },
+    {
+      "id": "a17b7664-36f2-41e3-a254-72ee9953b674",
+      "name": "سعاد حسني",
+      "media_type": "video",
+      "parent_id": "f275707f-c17a-438b-90e3-5a153442d2a9",
+      "order": 0
     }
   ],
   "items": [
+    {
+      "id": "9a9fb1e6-530d-4023-8ff3-acb6faa57148",
+      "media_type": "video",
+      "section_id": "a17b7664-36f2-41e3-a254-72ee9953b674",
+      "title": "غرباء 1973 - سعاد حسني",
+      "terabox_link": "https://video-s.twimg.com/ext_tw_video/2013995630914326528/pu/vid/avc1/484x860/y3BKPG9od1BDZf2o.mp4",
+      "description": "‏أنا واثق أن لو فيلم زى ده اتعرض في أيامنا الحالية فمؤكد أن مصير المخرج و المنتج و طاقم العمل بأكمله سيكون في السجن بلا أى جدال..\nفيلم \" غرباء\" الذى تم إنتاجه عام ١٩٧٣  من بطولة سعاد حسني و حسين فهمى و شكرى سرحان \nوتدور قصته حول صراع بين الأفكار الدينية والعلمانية، حيث تجسد سعاد حسني شخصية فتاة تقع بين أخ متدين وحبيب منفتح ذهنياً \nحط الفيلم ده جنب فيلم \"الملحد\" و وقتها تعرف إن فيلم الملحد ماهو إلا \"عنوان\" فقط بدون فحوى لشىء قصاد فيلم زى \"غرباء\".",
+      "thumbnail_url": "https://pbs.twimg.com/ext_tw_video_thumb/2013995630914326528/pu/img/M6y3q8PABzHb48BC.jpg",
+      "created_at": "2026-06-19T07:56:52.077Z",
+      "album_id": null,
+      "article_body": null,
+      "related_ids": [],
+      "attachments": [],
+      "extra_links": [],
+      "pinned": false,
+      "order": 0
+    },
     {
       "id": "bfb239db-72bb-453f-87ca-5ea268c2e3bf",
       "media_type": "video",
