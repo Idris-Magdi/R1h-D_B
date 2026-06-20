@@ -447,9 +447,33 @@
       "media_type": "music",
       "parent_id": null,
       "order": 3
+    },
+    {
+      "id": "9d478336-c6e7-4403-abcd-2dd26323c900",
+      "name": "SoundCloud",
+      "media_type": "music",
+      "parent_id": null,
+      "order": 4
     }
   ],
   "items": [
+    {
+      "id": "28350207-8a34-4b8d-926b-b0877439c7e9",
+      "media_type": "music",
+      "section_id": "9d478336-c6e7-4403-abcd-2dd26323c900",
+      "title": "",
+      "terabox_link": "https://m.soundcloud.com/user-788511571/yt5s-com-lana-del-rey-born-to",
+      "description": null,
+      "thumbnail_url": null,
+      "created_at": "2026-06-20T15:40:01.417Z",
+      "album_id": null,
+      "article_body": null,
+      "related_ids": [],
+      "attachments": [],
+      "extra_links": [],
+      "pinned": false,
+      "order": 0
+    },
     {
       "id": "d296ae47-9528-428f-bf1b-5c25e3967aa7",
       "media_type": "music",
