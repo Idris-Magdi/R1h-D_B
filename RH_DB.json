@@ -468,9 +468,33 @@
       "media_type": "music",
       "parent_id": "ee455de4-aa6e-4ddc-96c4-83b1cbbfbc2b",
       "order": 0
+    },
+    {
+      "id": "0578dbc1-ee9d-4f19-92b3-d87ce1b2515a",
+      "name": "عمرو دياب",
+      "media_type": "music",
+      "parent_id": "7a41c932-ce84-40b1-9dc0-f4cb380db61d",
+      "order": 0
     }
   ],
   "items": [
+    {
+      "id": "746bd373-e76a-4891-b6f5-14657bee732d",
+      "media_type": "music",
+      "section_id": "0578dbc1-ee9d-4f19-92b3-d87ce1b2515a",
+      "title": "كوكتيل ريميكس - عمرو دياب",
+      "terabox_link": "https://drive.google.com/file/d/1Ty50PwVfzL-9dsZqSjDojqVWMW6XfNqW/view?usp=drivesdk",
+      "description": null,
+      "thumbnail_url": "https://media.gemini.media/img/large/2018/8/31/2018_8_31_14_54_50_909.jpg",
+      "created_at": "2026-06-21T08:28:09.721Z",
+      "album_id": null,
+      "article_body": null,
+      "related_ids": [],
+      "attachments": [],
+      "extra_links": [],
+      "pinned": false,
+      "order": 0
+    },
     {
       "id": "7a7da502-da09-4cc7-b0e0-4d11b3850225",
       "media_type": "music",
