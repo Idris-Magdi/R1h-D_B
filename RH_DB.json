@@ -605,8 +605,15 @@
           "id": "2e271bf0-c583-4f56-82d3-746709caaae8",
           "url": "https://youtu.be/Bag1gUxuU0g?si=cm8L_5G_0FCX9a4B",
           "title": "Test",
-          "position": "bottom",
+          "position": "top",
           "type": "video"
+        },
+        {
+          "id": "085a2786-9117-47eb-8823-b060b2fdf131",
+          "url": "https://real.hub-rb.workers.dev/",
+          "title": "Test2",
+          "position": "bottom",
+          "type": "link"
         }
       ],
       "pinned": true,
