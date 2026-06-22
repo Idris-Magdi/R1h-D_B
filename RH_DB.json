@@ -3421,7 +3421,16 @@
       "related_ids": [],
       "attachments": [],
       "extra_links": [],
-      "media_links": [],
+      "media_links": [
+        {
+          "id": "461a04e2-26c0-4071-8b4a-d3eaddfa2b9f",
+          "url": "https://youtu.be/xAWDqdpOlu8",
+          "title": "",
+          "position": "bottom",
+          "type": "link",
+          "thumbnail_url": null
+        }
+      ],
       "pinned": false,
       "order": 0
     },
@@ -3565,7 +3574,16 @@
       "related_ids": [],
       "attachments": [],
       "extra_links": [],
-      "media_links": [],
+      "media_links": [
+        {
+          "id": "ee36058a-ac50-4a67-abe9-4daff2bcb321",
+          "url": "https://youtu.be/lhkaTegZcQ0",
+          "title": "",
+          "position": "top",
+          "type": "media",
+          "thumbnail_url": null
+        }
+      ],
       "pinned": true,
       "order": 0
     },
