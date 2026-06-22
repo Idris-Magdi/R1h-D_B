@@ -313,7 +313,7 @@
       "name": "Porn",
       "media_type": "video",
       "parent_id": null,
-      "order": 3
+      "order": 4
     },
     {
       "id": "59058c9a-198b-4f11-a427-338d2c549404",
@@ -475,9 +475,34 @@
       "media_type": "music",
       "parent_id": "7a41c932-ce84-40b1-9dc0-f4cb380db61d",
       "order": 0
+    },
+    {
+      "id": "bda2a794-d431-4ff9-af24-3e346d627f0d",
+      "name": "Funny",
+      "media_type": "video",
+      "parent_id": null,
+      "order": 3
     }
   ],
   "items": [
+    {
+      "id": "c2602962-1981-42fc-b312-0331dd4876be",
+      "media_type": "video",
+      "section_id": "bda2a794-d431-4ff9-af24-3e346d627f0d",
+      "title": "Mini Dancarino de Discoteca",
+      "terabox_link": "https://youtu.be/TbxFawgmCcA",
+      "description": null,
+      "thumbnail_url": "https://img.youtube.com/vi/TbxFawgmCcA/mqdefault.jpg",
+      "created_at": "2026-06-22T15:08:29.676Z",
+      "album_id": null,
+      "article_body": null,
+      "related_ids": [],
+      "attachments": [],
+      "extra_links": [],
+      "media_links": [],
+      "pinned": false,
+      "order": 0
+    },
     {
       "id": "eb1e1409-6104-4e27-8e3d-d74c345dfcb7",
       "media_type": "video",
