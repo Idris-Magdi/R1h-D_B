@@ -604,9 +604,10 @@
         {
           "id": "2e271bf0-c583-4f56-82d3-746709caaae8",
           "url": "https://youtu.be/Bag1gUxuU0g",
-          "title": "",
+          "title": "Test",
           "position": "top",
-          "type": "media"
+          "type": "media",
+          "thumbnail_url": "https://pbs.twimg.com/ext_tw_video_thumb/2003761187608010752/pu/img/yChxhzJ4oSMmS_7v.jpg"
         }
       ],
       "pinned": true,
