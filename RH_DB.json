@@ -603,17 +603,10 @@
       "media_links": [
         {
           "id": "2e271bf0-c583-4f56-82d3-746709caaae8",
-          "url": "https://video-s.twimg.com/ext_tw_video/2003761187608010752/pu/vid/avc1/1024x576/7HLW4km-SSX0eOX4.mp4",
+          "url": "https://youtu.be/Bag1gUxuU0g",
           "title": "",
           "position": "top",
           "type": "media"
-        },
-        {
-          "id": "085a2786-9117-47eb-8823-b060b2fdf131",
-          "url": "https://Google.com",
-          "title": "",
-          "position": "bottom",
-          "type": "link"
         }
       ],
       "pinned": true,
