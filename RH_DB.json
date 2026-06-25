@@ -2078,7 +2078,7 @@
       "media_type": "article",
       "section_id": "67a59f5d-122b-4ed8-961e-1f5a2e71f24f",
       "title": "أنتَ تُمجدُ \"الثقة\" لكي تذبحها بدمٍ بارد",
-      "terabox_link": "https://scontent.fcai19-4.fna.fbcdn.net/v/t39.30808-6/679978748_122094241467293813_7249145281409716516_n.jpg?stp=dst-jpg_tt6&cstp=mx678x452&ctp=s678x452&_nc_cat=101&ccb=1-7&_nc_sid=f727a1&_nc_eui2=AeHhTfcKECfO0HJ5zqZ054_aSk7o6jqG8KhKTujqOobwqKjJkcjdqABhqIe8wZUXVi6tD6WZzD4B40XG8OP1w434&_nc_ohc=Su9XvWVLf9MQ7kNvwG4cZ2_&_nc_oc=AdrpmTtHykfNm8j1EDvjeOCTRWIZ9dcHcZm7ZQbEx7ZwuexxNmAo4NGbTikxDzZBUOQ&_nc_zt=23&_nc_ht=scontent.fcai19-4.fna&_nc_gid=sNpKH4iAHURpI6Lf4M_OqA&_nc_ss=7b2a8&oh=00_Af-rjezMKempAt_yWeBNyudcIZdAXiqOFIrtXV4aszoIiA&oe=6A3710D6",
+      "terabox_link": "DrivePhoto:1g2dQSpyrVgIYzN661AwXzKt7YutHnGNU",
       "description": "أنتَ تُمجدُ \"الثقة\" لكي تذبحها بدمٍ بارد؛ تماماً كما تُطعمُ الحيوانَ بيدك لتسلبَ حياته لاحقاً، أنتَ تستدرجُ براءةَ الطفلِ بكلماتٍ",
       "thumbnail_url": null,
       "created_at": "2026-06-16T12:42:08.465Z",
@@ -2087,7 +2087,16 @@
       "related_ids": [],
       "attachments": [],
       "extra_links": [],
-      "media_links": [],
+      "media_links": [
+        {
+          "id": "9668e256-85de-4f02-a713-3666eb482838",
+          "url": "https://www.facebook.com/61588814395811/posts/122094241497293813/",
+          "title": "Facebook",
+          "position": "bottom",
+          "type": "link",
+          "thumbnail_url": null
+        }
+      ],
       "pinned": false,
       "order": 3
     },
@@ -2096,16 +2105,25 @@
       "media_type": "article",
       "section_id": "67a59f5d-122b-4ed8-961e-1f5a2e71f24f",
       "title": "أنتَ كائنٌ يعيشُ انفصاماً أخلاقياً مقززاً",
-      "terabox_link": "https://www.facebook.com/Page.Oppose/videos/954056840566537/",
+      "terabox_link": "DriveVideo:1A6xhycykop2QzaWXqELYjfNt8bh1wnia",
       "description": "أنتَ كائنٌ يعيشُ انفصاماً أخلاقياً مقززاً، تَقضي نهارَكَ في تدليلِ قطةٍ وتَمنحها اسماً وحضناً، وفي المساء تَغرسُ أنيابَكَ في جَسدِ كائنٍ آخَر لم",
-      "thumbnail_url": "https://img.youtube.com/vi/bLeLQ2EUv_E/maxresdefault.jpg",
+      "thumbnail_url": "DrivePhoto:17BRrYysfRWbaW2dXROGEgqILJ95GOVrG",
       "created_at": "2026-06-16T12:39:58.321Z",
       "album_id": null,
       "article_body": "أنتَ كائنٌ يعيشُ انفصاماً أخلاقياً مقززاً، تَقضي نهارَكَ في تدليلِ قطةٍ وتَمنحها اسماً وحضناً، وفي المساء تَغرسُ أنيابَكَ في جَسدِ كائنٍ آخَر لم يختلف عنها إلا في \"نَصيبه\" من عَبثِ تصنيفك. أيُّ جُنونٍ هذا الذي جَعلَ من دمِ القط \"خطيئة\" ومن دمِ العِجلِ \"وصفةً لشهيتك\"؟\nأنت لا تملكُ رحمةً، بل تملكُ \"عنصريةً فصائلية\"، تَنتفضُ لذبحةِ حيوانٍ أليف تراه في شاشةِ هاتفك، وتَحتفلُ بهروبِ آخَر نَحوَ مَذبحه في طقوسِك.. الحقيقةُ أنك مَحضُ مَعتدٍ أناني، يَحتقرُ الروحَ التي لا تُسلي وَحدته، ويُقدّسُ اللحمَ الذي يُشبعُ غريزته، ثم بكل بلاهةٍ يظنُّ أنَّ دموعه على \"أليفه\" تَغسلُ دماءَ \"ضحاياه\" العالقة في حُنجرته، تَنعي حيواناً أليفاً بدموعٍ تماسيحية، بينما مِعدتك تتحولُ إلى مَقبرةٍ جماعية لكائناتٍ لم تطلب منك سوى حقها في النبض. عرض أقل",
       "related_ids": [],
       "attachments": [],
       "extra_links": [],
-      "media_links": [],
+      "media_links": [
+        {
+          "id": "8f775ac6-ec74-41bd-a3fd-7ea3151e87b1",
+          "url": "https://www.facebook.com/Page.Oppose/videos/954056840566537/",
+          "title": "Facebook",
+          "position": "bottom",
+          "type": "link",
+          "thumbnail_url": null
+        }
+      ],
       "pinned": false,
       "order": 2
     },
@@ -3608,16 +3626,25 @@
       "media_type": "article",
       "section_id": "67a59f5d-122b-4ed8-961e-1f5a2e71f24f",
       "title": "أنتَ لا تملكُ قلباً، أنتَ تملكُ \"قائمة تفضيلات\"",
-      "terabox_link": "https://www.facebook.com/61588814395811/posts/122094182967293813/?app=fbl",
+      "terabox_link": "DrivePhoto:1VYafXNwQ-6q7pRuaR4nsHgxUgw_Lw-75",
       "description": "أنتَ لا تملكُ قلباً، أنتَ تملكُ \"قائمة تفضيلات\"؛ فمن يرتجفُ لسكينٍ تمسُّ قطة ويشتهي قطعةً من خروف، هو",
-      "thumbnail_url": "https://scontent.fcai19-7.fna.fbcdn.net/v/t39.30808-6/678759975_122094182919293813_633853168177256251_n.jpg?stp=dst-jpg_tt6&cstp=mx630x300&ctp=s630x300&_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=kwmcZsC7VBgQ7kNvwExAI8R&_nc_oc=Adp-k0Ietm1dKBX-7u_vkUVrNnK9v3KkcQ6Tzrqwa-wK2OeUtUQL-XOWHkQozUWCIL8&_nc_zt=23&_nc_ht=scontent.fcai19-7.fna&_nc_gid=3Xe31dzXkaEEnLWkllH_Nw&_nc_ss=7b2a8&oh=00_Af8dBOZacp5piuPTGj6Hh44IBdBuGT50bCJiYgSQ_my94g&oe=6A3ADCB8",
+      "thumbnail_url": null,
       "created_at": "2026-06-12T10:58:39.514Z",
       "album_id": null,
       "article_body": "أنتَ لا تملكُ قلباً، أنتَ تملكُ \"قائمة تفضيلات\"؛ فمن يرتجفُ لسكينٍ تمسُّ قطة ويشتهي قطعةً من خروف، هو مجردُ معتدٍ \"لطيف\" يختارُ ضحاياه بمزاجيّةٍ مثيرةٍ للاشمئزاز.",
       "related_ids": [],
       "attachments": [],
       "extra_links": [],
-      "media_links": [],
+      "media_links": [
+        {
+          "id": "b594a07d-d77c-4d9c-8b40-01e12ded50d8",
+          "url": "https://www.facebook.com/61588814395811/posts/122094182967293813/",
+          "title": "Facebook",
+          "position": "bottom",
+          "type": "link",
+          "thumbnail_url": null
+        }
+      ],
       "pinned": false,
       "order": 0
     },
@@ -4361,14 +4388,23 @@
       "title": "تُبكيك دماءُ قطةٍ وتُشهيك دماءُ خروف",
       "terabox_link": "DriveVideo:1jS-H1QSq5PKDuEDvWDv0yYBygHMpIOA5",
       "description": "تُبكيك دماءُ قطةٍ وتُشهيك دماءُ خروف.. أيُّ انفصامٍ في روحك جعل القتل \"جريمة\" في زقاق، و\"عيداً\" في مسبح؟",
-      "thumbnail_url": "https://i3.ytimg.com/vi/OGY7AQIoZbA/hqdefault.jpg",
+      "thumbnail_url": "DrivePhoto:1M9bKXD9aSbDAEFjI1_qhDI7Ee0G2Qj3z",
       "created_at": "2026-06-11T10:58:12.394Z",
       "album_id": null,
       "article_body": "تُبكيك دماءُ قطةٍ وتُشهيك دماءُ خروف.. أيُّ انفصامٍ في روحك جعل القتل \"جريمة\" في زقاق، و\"عيداً\" في مسبح؟\nإنها الحماقة حين تلبس ثوب الرقة، تقتل القتيل وتسير في جنازته ببطنٍ ممتلئة من لحمه. أنت لا تدافع عن حياتك، أنت تمارس سادية \"المصلحة\" وتسميها غريزة. الفرق بينك وبين النباتي أن الأخير لم يجزّئ مبادئه، أما أنت فتمارس شفقةً انتقائية مقززة، تضحك لهروب عجلٍ نحو ذبحه، وتنتفض لموتِ قط.. الحقيقة أنك لست رحيماً، أنت مجرد معتدٍ يختار ضحاياه بدافع تلبية انانيته، ويظن أنَّ طهارة يده تُقاس بنوع الدم الذي يسفكه.",
       "related_ids": [],
       "attachments": [],
       "extra_links": [],
-      "media_links": [],
+      "media_links": [
+        {
+          "id": "5b76fe6d-29d2-417c-87bc-242ec60cc077",
+          "url": "https://www.facebook.com/Page.Oppose/videos/986894067090909/",
+          "title": "Facebook",
+          "position": "bottom",
+          "type": "link",
+          "thumbnail_url": null
+        }
+      ],
       "pinned": false,
       "order": 1
     },
