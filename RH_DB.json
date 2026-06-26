@@ -103,7 +103,7 @@
       "name": "Female",
       "media_type": "video",
       "parent_id": "1001f8e9-6612-4f00-af1f-5387f8a501cb",
-      "order": 1
+      "order": 2
     },
     {
       "id": "fa684a7d-3b11-4bbe-9fda-cd9e1f1af4c5",
@@ -531,6 +531,20 @@
       "media_type": "photo",
       "parent_id": "1ba69a59-44bc-4bc5-af45-b0afc6497832",
       "order": 0
+    },
+    {
+      "id": "7b9a6f71-2ff6-4b42-8555-99b7cdd32e2e",
+      "name": "Male - cLimax",
+      "media_type": "video",
+      "parent_id": "1001f8e9-6612-4f00-af1f-5387f8a501cb",
+      "order": 1
+    },
+    {
+      "id": "c3789c05-e2d3-4780-a103-1780b7c2b604",
+      "name": "Female - cLimax",
+      "media_type": "video",
+      "parent_id": "1001f8e9-6612-4f00-af1f-5387f8a501cb",
+      "order": 3
     }
   ],
   "items": [
