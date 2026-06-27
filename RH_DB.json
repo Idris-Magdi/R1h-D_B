@@ -264,21 +264,21 @@
       "name": "Paintings",
       "media_type": "photo",
       "parent_id": null,
-      "order": 5
+      "order": 6
     },
     {
       "id": "939a85fd-7e76-41b5-916a-3839f9f2b7fc",
       "name": "Drawings",
       "media_type": "photo",
       "parent_id": null,
-      "order": 6
+      "order": 7
     },
     {
       "id": "6c05c158-ac63-458b-b534-2d0ff0a92b16",
       "name": "Artists 🎨",
       "media_type": "photo",
       "parent_id": null,
-      "order": 7
+      "order": 8
     },
     {
       "id": "bb4b8aa4-d1e9-4ee2-9472-db3f66a819a1",
@@ -334,7 +334,7 @@
       "name": "Nature",
       "media_type": "photo",
       "parent_id": null,
-      "order": 3
+      "order": 5
     },
     {
       "id": "77a62005-a06e-46aa-93c8-be7537914911",
@@ -523,7 +523,7 @@
       "name": "Funny",
       "media_type": "photo",
       "parent_id": null,
-      "order": 8
+      "order": 9
     },
     {
       "id": "32d55193-e144-4ebb-9811-028c6d24a60e",
@@ -586,6 +586,27 @@
       "name": "Female",
       "media_type": "photo",
       "parent_id": "a4e16b45-4c6b-4c8c-82e6-eef4901511ad",
+      "order": 1
+    },
+    {
+      "id": "8acf1dbb-a27a-43f8-88e6-f554cbc4a371",
+      "name": "Models",
+      "media_type": "photo",
+      "parent_id": null,
+      "order": 3
+    },
+    {
+      "id": "7dd8dafd-0382-4b49-a4bc-229d8b9d5e18",
+      "name": "Eastern",
+      "media_type": "photo",
+      "parent_id": "8acf1dbb-a27a-43f8-88e6-f554cbc4a371",
+      "order": 0
+    },
+    {
+      "id": "46528421-eed9-453a-bc83-67fe1b764363",
+      "name": "Western",
+      "media_type": "photo",
+      "parent_id": "8acf1dbb-a27a-43f8-88e6-f554cbc4a371",
       "order": 1
     }
   ],
