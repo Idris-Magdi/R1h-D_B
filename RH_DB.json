@@ -703,6 +703,26 @@
   ],
   "items": [
     {
+      "id": "d48494ab-0931-4cae-b62b-aad96102add9",
+      "media_type": "reel",
+      "section_id": "b8c50b37-88aa-4ef1-913b-c9791382b90c",
+      "title": "What do you think about it? 😲",
+      "terabox_link": "https://www.facebook.com/reel/1874750209904404/",
+      "description": "📍Switzerland 🇨🇭 \n\nOutdoors | Travel | Nature | Forest | IPhone",
+      "thumbnail_url": "https://scontent-dfw6-1.xx.fbcdn.net/v/t51.82787-15/674421283_18572932522040318_4627265075132526425_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a27664&_nc_ohc=2RJ8fT9AlgQQ7kNvwGzgMOl&_nc_oc=Adqhb8L0PV7vV5EJBSREFzZO5d-9MKUw7hYuaeuL1Y_BPLqoUI1xuNgInkRtr1B8xNE&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=xliiPpoy2qpkZG8hXNwg2Q&_nc_ss=7f20f&oh=00_Af_i7KqTexhaZk2EnUyg2UHKNNvvzGXT_W-vjfb-OmAwCg&oe=6A46EF6B",
+      "created_at": "2026-06-28T14:47:41.063Z",
+      "album_id": null,
+      "article_body": null,
+      "related_ids": [],
+      "attachments": [],
+      "extra_links": [],
+      "media_links": [],
+      "pinned": false,
+      "order": 0,
+      "pending_review": false,
+      "requested_section": null
+    },
+    {
       "id": "d7faf74f-3a0c-44ef-b1a1-6ceb6fa6f69b",
       "media_type": "video",
       "section_id": "06cc440c-5257-43a4-9edb-478ce9d4bcd5",
@@ -3938,7 +3958,7 @@
     },
     {
       "id": "c06e567e-18b1-45aa-8411-ea7f9ed1fb8c",
-      "media_type": "video",
+      "media_type": "reel",
       "section_id": "59058c9a-198b-4f11-a427-338d2c549404",
       "title": "",
       "terabox_link": "https://video-s.twimg.com/ext_tw_video/1962564103253209088/pu/vid/avc1/720x1280/dCQ_6b3NDEJb0b8r.mp4",
@@ -3952,7 +3972,7 @@
       "extra_links": [],
       "media_links": [],
       "pinned": false,
-      "order": 1,
+      "order": 0,
       "pending_review": false,
       "requested_section": null
     },
