@@ -3698,8 +3698,8 @@
     },
     {
       "id": "bfb239db-72bb-453f-87ca-5ea268c2e3bf",
-      "media_type": "video",
-      "section_id": "59058c9a-198b-4f11-a427-338d2c549404",
+      "media_type": "reel",
+      "section_id": "b8c50b37-88aa-4ef1-913b-c9791382b90c",
       "title": "I love things that cannot be bought",
       "terabox_link": "https://video-s.twimg.com/ext_tw_video/1954858697034747904/pu/vid/avc1/720x1280/1jiE5-93X0cUqLU1.mp4",
       "description": "I love things that cannot be bought. Like the sea,\nLike the sky,\nLike the moon,\nLike the sun,\nAnd like love...",
@@ -3712,7 +3712,7 @@
       "extra_links": [],
       "media_links": [],
       "pinned": false,
-      "order": 2,
+      "order": 1,
       "pending_review": false,
       "requested_section": null
     },
