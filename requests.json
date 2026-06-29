@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1c87f7e7-e631-4c3f-84d7-10f2458d794f",
+    "title": "Hello 👋",
+    "description": "Happy",
+    "category": "other",
+    "email": "dangerhelp255@gmail.com",
+    "profile_url": "https://real.hub-rb.workers.dev/help?tab=request",
+    "links": [
+      {
+        "url": "https://real.hub-rb.workers.dev/help?tab=request",
+        "label": "Facebook"
+      },
+      {
+        "url": "https://real.hub-rb.workers.dev/help?tab=request",
+        "label": "Twitter"
+      }
+    ],
+    "created_at": "2026-06-29T12:44:16.762Z",
+    "status": "pending"
+  }
+]
