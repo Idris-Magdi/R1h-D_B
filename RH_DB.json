@@ -6008,7 +6008,7 @@
       "attachments": [],
       "extra_links": [],
       "media_links": [],
-      "pinned": false,
+      "pinned": true,
       "order": 2,
       "pending_review": false,
       "requested_section": null
@@ -6048,7 +6048,7 @@
       "attachments": [],
       "extra_links": [],
       "media_links": [],
-      "pinned": false,
+      "pinned": true,
       "order": 1,
       "pending_review": false,
       "requested_section": null
