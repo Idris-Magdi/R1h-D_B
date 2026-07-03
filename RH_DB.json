@@ -4372,7 +4372,7 @@
       "attachments": [],
       "extra_links": [],
       "media_links": [],
-      "pinned": true,
+      "pinned": false,
       "order": 0,
       "pending_review": false,
       "requested_section": null
@@ -6068,7 +6068,7 @@
       "attachments": [],
       "extra_links": [],
       "media_links": [],
-      "pinned": true,
+      "pinned": false,
       "order": 4,
       "pending_review": false,
       "requested_section": null
