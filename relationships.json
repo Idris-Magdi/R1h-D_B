@@ -1,0 +1,32 @@
+{
+  "relationships": [
+    {
+      "user_id": "usr_101",
+      "name": "محمد مجدي",
+      "relation_type": "صديق مقرب",
+      "closeness_level": 9,
+      "inside_jokes": [
+        "موقف السفرية اللي اتأخرنا فيها",
+        "أكلة السمك المشوي"
+      ],
+      "shared_memories": [
+        "أيام الجامعة والتخرج سوا",
+        "السفر للصيف"
+      ],
+      "relationship_notes": "علاقة قوية جداً، فيها هزار كتير وأخوة وعفوية"
+    },
+    {
+      "user_id": "usr_102",
+      "name": "أحمد",
+      "relation_type": "أخ",
+      "closeness_level": 10,
+      "inside_jokes": [
+        "عطل العربية في الطريق"
+      ],
+      "shared_memories": [
+        "ذكريات البيت والطفولة"
+      ],
+      "relationship_notes": "علاقة أسرية قوية ومباشرة"
+    }
+  ]
+}
