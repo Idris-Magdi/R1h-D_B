@@ -1,0 +1,11 @@
+{
+  "votingEnabled": true,
+  "maxVotesPerProduct": 0,
+  "maxVotesPerVisitor": 0,
+  "ipCooldownHours": 24,
+  "blockVpn": true,
+  "showCategoryFilter": false,
+  "showRegionFilter": false,
+  "searchPlaceholder": "ابحث بالاسم أو الوصف أو السعر...",
+  "adminPasswordHash": null
+}
