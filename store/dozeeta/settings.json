@@ -1,0 +1,33 @@
+{
+  "storeName": "صحتك دوزيتا",
+  "tagline": "صحتك مهمة عندنا",
+  "intro": "اختار طبيبك المفضل",
+  "footerNote": "© By Magdi 2026",
+  "socials": [
+    {
+      "label": "Facebook",
+      "url": "https://facebook.com",
+      "icon": "facebook"
+    },
+    {
+      "label": "WhatsApp",
+      "url": "https://wa.me/0000000000",
+      "icon": "whatsapp"
+    },
+    {
+      "label": "TikTok",
+      "url": "https://",
+      "icon": "tiktok"
+    }
+  ],
+  "votingEnabled": true,
+  "maxVotesPerProduct": 0,
+  "maxVotesPerVisitor": 0,
+  "ipCooldownHours": 24,
+  "blockVpn": true,
+  "showCategoryFilter": true,
+  "showRegionFilter": true,
+  "searchPlaceholder": "ابحث بالاسم أو الوصف أو السعر...",
+  "adminPasswordHash": null,
+  "ordersPasswordHash": null
+}
