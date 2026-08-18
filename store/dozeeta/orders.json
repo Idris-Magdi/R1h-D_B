@@ -11,18 +11,5 @@
     "owner": "c2bc6b2b28233ca995bca5ee25c9941bf35f142601ffbdb83b6b4378954f8710",
     "status": "pending",
     "at": "2026-08-18T14:01:40.126Z"
-  },
-  {
-    "orderNumber": "ORD-YQEQ4Z7XD",
-    "productId": "02",
-    "productTitle": "Studio Tee",
-    "name": "اتنين احمد محمد",
-    "phone": "0123456789",
-    "address": "عنوان",
-    "quantity": 1,
-    "note": "اختياري",
-    "owner": "c2bc6b2b28233ca995bca5ee25c9941bf35f142601ffbdb83b6b4378954f8710",
-    "status": "pending",
-    "at": "2026-08-18T14:02:02.579Z"
   }
 ]
