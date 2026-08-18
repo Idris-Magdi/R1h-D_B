@@ -1,9 +1,15 @@
 {
-  "storeName": "متجرك",
-  "tagline": "شعار المتجر",
-  "intro": "نص تعريفي للمتجر",
-  "footerNote": "نص الفوتر",
-  "socials": [],
+  "storeName": "صحتك دوزيتا",
+  "tagline": "صحتك مهمة عندنا",
+  "intro": "اختار طبيبك المفضل",
+  "footerNote": "© By Magdi 2026",
+  "socials": [
+    {
+      "label": "WhatsApp",
+      "url": "https://",
+      "icon": "whatsapp"
+    }
+  ],
   "votingEnabled": true,
   "maxVotesPerProduct": 0,
   "maxVotesPerVisitor": 0,
