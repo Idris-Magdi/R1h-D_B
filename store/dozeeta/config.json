@@ -1,24 +1,84 @@
 {
   "categories": [
     {
-      "id": "tshirts",
-      "label": "T-Shirts"
+      "id": "section-20",
+      "label": "قسم جديد"
     },
     {
-      "id": "shirts",
-      "label": "Shirts"
+      "id": "section-19",
+      "label": "جراحة المناظير"
     },
     {
-      "id": "pants",
-      "label": "Pants"
+      "id": "section-18",
+      "label": "جراحة الأطفال"
     },
     {
-      "id": "outerwear",
-      "label": "Outerwear"
+      "id": "section-17",
+      "label": "جراحة التجميل"
     },
     {
-      "id": "accessories",
-      "label": "Accessories"
+      "id": "section-16",
+      "label": "جراحة العظام"
+    },
+    {
+      "id": "section-15",
+      "label": "جراحة المخ والأعصاب"
+    },
+    {
+      "id": "section-14",
+      "label": "جراحة الأوعية الدموية"
+    },
+    {
+      "id": "section-13",
+      "label": "جراحة القلب والصدر"
+    },
+    {
+      "id": "section-12",
+      "label": "الجراحة العامة"
+    },
+    {
+      "id": "section-11",
+      "label": "الأورام"
+    },
+    {
+      "id": "section-10",
+      "label": "أمراض الدم"
+    },
+    {
+      "id": "section-9",
+      "label": "الأمراض المعدية"
+    },
+    {
+      "id": "section-8",
+      "label": "الأمراض الروماتيزمية والمناعية"
+    },
+    {
+      "id": "section-7",
+      "label": "الأعصاب وجهاز العصبي"
+    },
+    {
+      "id": "section-6",
+      "label": "الغدد الصماء والسكري"
+    },
+    {
+      "id": "section-5",
+      "label": "الأمراض الصدرية"
+    },
+    {
+      "id": "section-4",
+      "label": "أمراض القلب والأوعية الدموية"
+    },
+    {
+      "id": "section-3",
+      "label": "الكلى والمسالك البولية"
+    },
+    {
+      "id": "section-2",
+      "label": "الجهاز الهضمي والكبد"
+    },
+    {
+      "id": "section-1",
+      "label": "أمراض الباطنة العامة"
     }
   ],
   "regions": [
