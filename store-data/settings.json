@@ -4,8 +4,8 @@
   "maxVotesPerVisitor": 0,
   "ipCooldownHours": 24,
   "blockVpn": true,
-  "showCategoryFilter": false,
-  "showRegionFilter": false,
+  "showCategoryFilter": true,
+  "showRegionFilter": true,
   "searchPlaceholder": "ابحث بالاسم أو الوصف أو السعر...",
   "adminPasswordHash": "96a1e432965499ccfc52039be02f6d0ecf57bbeb7da040a25500d30bcd76339b"
 }
