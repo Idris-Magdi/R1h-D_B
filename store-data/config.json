@@ -1,20 +1,4 @@
 {
-  "storeName": "صحتك دوزيتا",
-  "tagline": "صحتك مهمة عندنا",
-  "intro": "اختار طبيبك المفضل",
-  "footerNote": "© By Magdi 2026",
-  "socials": [
-    {
-      "label": "WhatsApp",
-      "url": "https://wa.me/0000000000",
-      "icon": "whatsapp"
-    },
-    {
-      "label": "Facebook",
-      "url": "https://",
-      "icon": "facebook"
-    }
-  ],
   "categories": [
     {
       "id": "tshirts",
