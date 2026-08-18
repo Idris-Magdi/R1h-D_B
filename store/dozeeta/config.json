@@ -135,16 +135,16 @@
   ],
   "regions": [
     {
-      "id": "egypt",
-      "label": "مصر"
+      "id": "region-3",
+      "label": "المهندسين"
     },
     {
-      "id": "saudi",
-      "label": "السعودية"
+      "id": "region-2",
+      "label": "بشتيل البلد"
     },
     {
-      "id": "uae",
-      "label": "الإمارات"
+      "id": "region-1",
+      "label": "اسوان"
     }
   ],
   "products": [
