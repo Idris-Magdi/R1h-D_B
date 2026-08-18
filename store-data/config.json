@@ -5,29 +5,14 @@
   "footerNote": "© By Magdi 2026",
   "socials": [
     {
-      "label": "Instagram",
-      "url": "https://instagram.com",
-      "icon": "instagram"
-    },
-    {
-      "label": "Facebook",
-      "url": "https://facebook.com",
-      "icon": "facebook"
-    },
-    {
-      "label": "YouTube",
-      "url": "https://youtube.com",
-      "icon": "youtube"
-    },
-    {
       "label": "WhatsApp",
       "url": "https://wa.me/0000000000",
       "icon": "whatsapp"
     },
     {
-      "label": "Email",
-      "url": "mailto:hello@ateliernoir.com",
-      "icon": "mail"
+      "label": "Facebook",
+      "url": "https://",
+      "icon": "facebook"
     }
   ],
   "categories": [
