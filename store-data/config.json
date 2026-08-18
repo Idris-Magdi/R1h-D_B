@@ -1,37 +1,37 @@
 {
   "categories": [
     {
-      "id": "tshirts",
+      "id": "A",
       "label": "T-Shirts"
     },
     {
-      "id": "shirts",
+      "id": "B",
       "label": "Shirts"
     },
     {
-      "id": "pants",
+      "id": "C",
       "label": "Pants"
     },
     {
-      "id": "outerwear",
+      "id": "D",
       "label": "Outerwear"
     },
     {
-      "id": "accessories",
+      "id": "E",
       "label": "Accessories"
     }
   ],
   "regions": [
     {
-      "id": "egypt",
+      "id": "A",
       "label": "مصر"
     },
     {
-      "id": "saudi",
+      "id": "B",
       "label": "السعودية"
     },
     {
-      "id": "uae",
+      "id": "C",
       "label": "الإمارات"
     }
   ],
