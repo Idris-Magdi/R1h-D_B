@@ -1,6 +1,10 @@
 {
   "categories": [
     {
+      "id": "section-35",
+      "label": "طب الاسنان جراحة الفكين"
+    },
+    {
       "id": "section-34",
       "label": "طبيب الاسرة والوقاية"
     },
@@ -153,6 +157,15 @@
   ],
   "products": [
     {
+      "id": "1787259540554",
+      "title": "عنصر جديد",
+      "subtitle": "جراحات الفم والوجه والفكين",
+      "price": "",
+      "category": "section-34",
+      "region": "region-3",
+      "image": "https://drive.google.com/file/d/1zr8tMhBNrK8a5h4OIJ-_4D7yCEnM6Wvm/view?usp=drivesdk"
+    },
+    {
       "id": "1787079313597",
       "title": "طارق حمدون الحربي",
       "subtitle": "إصابات ملاعب وتأهيل",
@@ -160,132 +173,6 @@
       "category": "section-28",
       "region": "region-2",
       "image": "https://drive.google.com/file/d/15uRSx6i25bfVSv9pJjX9lf_XFtKTMfqi/view?usp=drivesdk"
-    },
-    {
-      "id": "1787078012687",
-      "title": "حاتم الألفي",
-      "subtitle": "جراحة المخ والأعصاب والعمود الفقري",
-      "price": "€185",
-      "category": "section-15",
-      "region": "region-1",
-      "image": "https://drive.google.com/file/d/1PDeCxbD1iwI3QDkvEzd6aMqdRLCjgVWh/view?usp=drivesdk"
-    },
-    {
-      "id": "1787077938573",
-      "title": "محمد عوض تاج الدين",
-      "subtitle": "الأمراض الصدرية",
-      "price": "€155",
-      "category": "section-5",
-      "region": "region-2",
-      "image": "https://drive.google.com/file/d/1qNEb30aIcu_aR6qvr2Dqb4jnB1sbdV79/view?usp=drivesdk"
-    },
-    {
-      "id": "1787077897496",
-      "title": "طارق توفيق",
-      "subtitle": "جراحة الأطفال وحديثي الولادة",
-      "price": "€165",
-      "category": "section-18",
-      "region": "region-3",
-      "image": "https://drive.google.com/file/d/11OqWTsNNCSkaCT75CE6zq56YyaFhbD7A/view?usp=drivesdk"
-    },
-    {
-      "id": "1787077861669",
-      "title": "يسري عبد المحسن",
-      "subtitle": "الطب النفسي وعلاج الإدمان",
-      "price": "€145",
-      "category": "section-29",
-      "region": "region-3",
-      "image": "https://drive.google.com/file/d/14IaBJRzV9GQA7YwEUE1VzNCOsWW-NKIF/view?usp=drivesdk"
-    },
-    {
-      "id": "1787077813223",
-      "title": "مدحت عاصم",
-      "subtitle": "جهاز هضمي ومناظير",
-      "price": "€110",
-      "category": "section-2",
-      "region": "region-3",
-      "image": "https://drive.google.com/file/d/12mNmTS__fafkUfMwJU05Oa5sLe0U4CAx/view?usp=drivesdk"
-    },
-    {
-      "id": "1787077770075",
-      "title": "عادل خطاب",
-      "subtitle": "الأمراض الصدرية والعناية التنفسية",
-      "price": "€135",
-      "category": "section-5",
-      "region": "region-3",
-      "image": "https://drive.google.com/file/d/19ENLYmUkT5XpU7DVsxVE2dJByB4NVUCY/view?usp=drivesdk"
-    },
-    {
-      "id": "1787077703969",
-      "title": "عمرو الهراس",
-      "subtitle": "جراحة متقدمة",
-      "price": "€195",
-      "category": "section-11",
-      "region": "region-2",
-      "image": "https://drive.google.com/file/d/1uiagHw1S8h3xwPt9_y84fP44RxkMSrGO/view?usp=drivesdk"
-    },
-    {
-      "id": "1787077651438",
-      "title": "محمود الشربيني",
-      "subtitle": "العناية المركزة والحرجة",
-      "price": "€150",
-      "category": "section-26",
-      "region": "region-3",
-      "image": "https://drive.google.com/file/d/1Tr1D1ff4q7LSxIcp9FkNi5fzMKuaUyg1/view?usp=drivesdk"
-    },
-    {
-      "id": "1787077618175",
-      "title": "أحمد عكاشة",
-      "subtitle": "الطب النفسي",
-      "price": "€90",
-      "category": "section-29",
-      "region": "region-3",
-      "image": "https://drive.google.com/file/d/1ofuIzY23xpSFMKRW3SSFBX-alR48vo4P/view?usp=drivesdk"
-    },
-    {
-      "id": "1787077527985",
-      "title": "هاني الناظر",
-      "subtitle": "امراض جلدية",
-      "price": "€125",
-      "category": "section-22",
-      "region": "region-1",
-      "image": "https://drive.google.com/file/d/1ssRuipG-nM-Yd-72y8-FwdrlueosHTko/view?usp=drivesdk"
-    },
-    {
-      "id": "1787077410277",
-      "title": "شريف حتة",
-      "subtitle": "الطب الوقائي",
-      "price": "€100",
-      "category": "section-34",
-      "region": "region-3",
-      "image": "https://drive.google.com/file/d/1zfsW3eOru05qnzH7t-6Nia3FIlHWC7Oy/view?usp=drivesdk"
-    },
-    {
-      "id": "1787077376336",
-      "title": "جمال شعبان",
-      "subtitle": "امراض القلب",
-      "price": "€200",
-      "category": "section-4",
-      "region": "region-2",
-      "image": "https://drive.google.com/file/d/12D2FtUY3XFAik2NXTa1x1k6wsG8DDwrn/view?usp=drivesdk"
-    },
-    {
-      "id": "1787077326645",
-      "title": "حسام موافي",
-      "subtitle": "باطني",
-      "price": "€75",
-      "category": "section-1",
-      "region": "region-2",
-      "image": "https://drive.google.com/file/d/18kmT8J9qpmTJkartRplUom5-yBcNEXY8/view?usp=drivesdk"
-    },
-    {
-      "id": "1787077116582",
-      "title": "محمد رجب",
-      "subtitle": "جراحة العظام والمفاصل",
-      "price": "€120",
-      "category": "section-16",
-      "region": "region-2",
-      "image": "https://drive.google.com/file/d/15PR2zPRpfMaTP-KvDEe0ZBZUiie-krug/view?usp=drivesdk"
     }
   ]
 }
