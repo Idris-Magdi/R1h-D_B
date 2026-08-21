@@ -164,7 +164,9 @@
       "category": "section-16",
       "region": "region-3",
       "image": "https://drive.google.com/file/d/1_UixrpWQeYZ19v5v9HThVt4n8gqg0HGe/view?usp=drivesdk",
-      "hidden": false
+      "hidden": false,
+      "expiryMonths": 1,
+      "createdAt": "2026-08-21T00:10:32.887Z"
     },
     {
       "id": "1787259540554",
@@ -174,7 +176,9 @@
       "category": "section-35",
       "region": "region-3",
       "image": "https://drive.google.com/file/d/1zr8tMhBNrK8a5h4OIJ-_4D7yCEnM6Wvm/view?usp=drivesdk",
-      "hidden": false
+      "hidden": false,
+      "expiryMonths": 1,
+      "createdAt": "2026-08-21T00:10:18.825Z"
     },
     {
       "id": "1787079313597",
@@ -184,7 +188,9 @@
       "category": "section-28",
       "region": "region-2",
       "image": "https://drive.google.com/file/d/15uRSx6i25bfVSv9pJjX9lf_XFtKTMfqi/view?usp=drivesdk",
-      "hidden": false
+      "hidden": false,
+      "expiryMonths": 12,
+      "createdAt": "2026-08-21T00:10:11.712Z"
     }
   ]
 }
