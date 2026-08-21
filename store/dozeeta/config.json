@@ -191,7 +191,7 @@
       "hidden": false,
       "expiryMonths": 12,
       "createdAt": "2026-08-21T00:10:11.712Z",
-      "productPasswordHash": "Tarek2026"
+      "productPasswordHash": null
     }
   ]
 }
