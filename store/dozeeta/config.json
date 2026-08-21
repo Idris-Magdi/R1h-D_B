@@ -167,7 +167,9 @@
       "hidden": false,
       "expiryMonths": 1,
       "createdAt": "2026-08-21T00:10:32.887Z",
-      "productPasswordHash": "a38b17c226dd779ad67173ff7f07caeb:f01e16567e04eeb770da1fbbc1e3a758"
+      "productPasswordHash": "ba85c3a9f66b92f4bc97254a2856b5ea:a5b5fcf06e809e2f760a868060c6b638",
+      "showLocation": true,
+      "location": "https://maps.app.goo.gl/ov9gjfNUfG7tNcsR8"
     },
     {
       "id": "1787259540554",
@@ -180,7 +182,9 @@
       "hidden": false,
       "expiryMonths": 1,
       "createdAt": "2026-08-21T00:10:18.825Z",
-      "productPasswordHash": "1314edf3d094252a54bee6732e0222e7:ec0c6ab6da871b853343264ee3fbd089"
+      "productPasswordHash": "a3ec8864bee97484d84c2d10665ec1d2:c9cb68b8cfd60d6283103baaacfc0fe9",
+      "showLocation": true,
+      "location": "https://maps.app.goo.gl/ov9gjfNUfG7tNcsR8"
     },
     {
       "id": "1787079313597",
@@ -193,7 +197,9 @@
       "hidden": false,
       "expiryMonths": 12,
       "createdAt": "2026-08-21T00:10:11.712Z",
-      "productPasswordHash": "ac429e56a6b6020ffd464884961133c9:49ac8deb49f14839d25cc7e6f344488b"
+      "productPasswordHash": "13bac38ebb9d480c07d5021f6e4c5c22:7efa96f1db9c16d5a094f8cef8abd12e",
+      "showLocation": true,
+      "location": "https://maps.app.goo.gl/ov9gjfNUfG7tNcsR8"
     }
   ]
 }
