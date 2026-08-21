@@ -166,7 +166,8 @@
       "image": "https://drive.google.com/file/d/1_UixrpWQeYZ19v5v9HThVt4n8gqg0HGe/view?usp=drivesdk",
       "hidden": false,
       "expiryMonths": 1,
-      "createdAt": "2026-08-21T00:10:32.887Z"
+      "createdAt": "2026-08-21T00:10:32.887Z",
+      "productPasswordHash": null
     },
     {
       "id": "1787259540554",
@@ -178,7 +179,8 @@
       "image": "https://drive.google.com/file/d/1zr8tMhBNrK8a5h4OIJ-_4D7yCEnM6Wvm/view?usp=drivesdk",
       "hidden": false,
       "expiryMonths": 1,
-      "createdAt": "2026-08-21T00:10:18.825Z"
+      "createdAt": "2026-08-21T00:10:18.825Z",
+      "productPasswordHash": null
     },
     {
       "id": "1787079313597",
