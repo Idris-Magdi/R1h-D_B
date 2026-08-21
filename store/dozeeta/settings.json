@@ -5,19 +5,9 @@
   "footerNote": "© By Magdi 2026",
   "socials": [
     {
-      "label": "Facebook",
-      "url": "https://facebook.com",
-      "icon": "facebook"
-    },
-    {
       "label": "WhatsApp",
       "url": "https://wa.me/201016616884",
       "icon": "whatsapp"
-    },
-    {
-      "label": "TikTok",
-      "url": "https://",
-      "icon": "tiktok"
     }
   ],
   "votingEnabled": true,
