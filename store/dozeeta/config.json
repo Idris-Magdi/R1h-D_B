@@ -190,7 +190,8 @@
       "image": "https://drive.google.com/file/d/15uRSx6i25bfVSv9pJjX9lf_XFtKTMfqi/view?usp=drivesdk",
       "hidden": false,
       "expiryMonths": 12,
-      "createdAt": "2026-08-21T00:10:11.712Z"
+      "createdAt": "2026-08-21T00:10:11.712Z",
+      "productPasswordHash": "Tarek2026"
     }
   ]
 }
