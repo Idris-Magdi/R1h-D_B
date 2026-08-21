@@ -167,7 +167,7 @@
       "hidden": false,
       "expiryMonths": 1,
       "createdAt": "2026-08-21T00:10:32.887Z",
-      "productPasswordHash": null
+      "productPasswordHash": "a38b17c226dd779ad67173ff7f07caeb:f01e16567e04eeb770da1fbbc1e3a758"
     },
     {
       "id": "1787259540554",
@@ -180,7 +180,7 @@
       "hidden": false,
       "expiryMonths": 1,
       "createdAt": "2026-08-21T00:10:18.825Z",
-      "productPasswordHash": null
+      "productPasswordHash": "1314edf3d094252a54bee6732e0222e7:ec0c6ab6da871b853343264ee3fbd089"
     },
     {
       "id": "1787079313597",
@@ -193,7 +193,7 @@
       "hidden": false,
       "expiryMonths": 12,
       "createdAt": "2026-08-21T00:10:11.712Z",
-      "productPasswordHash": "1dd3a14439b44b43c1a2a21ddc2ac111:dec97d83a3f22384431444a183de2d53"
+      "productPasswordHash": "ac429e56a6b6020ffd464884961133c9:49ac8deb49f14839d25cc7e6f344488b"
     }
   ]
 }
