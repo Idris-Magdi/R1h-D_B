@@ -19,11 +19,11 @@
       "price": "1200EGP",
       "category": "tshirts",
       "region": "region-1",
-      "image": "https://store-wafaa.pages.dev/",
+      "image": "https://drive.google.com/file/d/1X-A8O0ejQJ5HmcZ9s3SU7rkUJd6ercBK/view?usp=drivesdk",
       "hidden": false,
       "expiryMonths": 1,
       "createdAt": "2026-11-21T21:26:34.482Z",
-      "productPasswordHash": null,
+      "productPasswordHash": "dbb366b5f32e2957aa9e17ce83ba7222:1bcde9fb7e6aa54d96a544f1344f9d6a",
       "showLocation": false,
       "location": ""
     },
