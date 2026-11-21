@@ -39,5 +39,5 @@
   "showRegionFilter": true,
   "searchPlaceholder": "ابحث بالاسم أو الوصف أو السعر...",
   "adminPasswordHash": null,
-  "ordersPasswordHash": null
+  "ordersPasswordHash": "f431df4dba42942d58999af368af352f235f671dde3be5568b279bb3ebef01ea"
 }
