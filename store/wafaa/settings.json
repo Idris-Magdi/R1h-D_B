@@ -1,0 +1,43 @@
+{
+  "storeName": "Wafaa Store",
+  "tagline": "Objects & Editions",
+  "intro": "A curated gallery of limited pieces — furniture, ceramics and printed matter, photographed as they are.",
+  "footerNote": "© 2026 Atelier Noir — All works are made in limited quantities.",
+  "socials": [
+    {
+      "label": "Instagram",
+      "url": "https://instagram.com",
+      "icon": "instagram"
+    },
+    {
+      "label": "Facebook",
+      "url": "https://facebook.com",
+      "icon": "facebook"
+    },
+    {
+      "label": "YouTube",
+      "url": "https://youtube.com",
+      "icon": "youtube"
+    },
+    {
+      "label": "WhatsApp",
+      "url": "https://wa.me/0000000000",
+      "icon": "whatsapp"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:hello@ateliernoir.com",
+      "icon": "mail"
+    }
+  ],
+  "votingEnabled": true,
+  "maxVotesPerProduct": 0,
+  "maxVotesPerVisitor": 0,
+  "ipCooldownHours": 24,
+  "blockVpn": true,
+  "showCategoryFilter": true,
+  "showRegionFilter": true,
+  "searchPlaceholder": "ابحث بالاسم أو الوصف أو السعر...",
+  "adminPasswordHash": null,
+  "ordersPasswordHash": null
+}
