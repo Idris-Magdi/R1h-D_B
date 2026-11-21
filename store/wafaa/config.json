@@ -23,7 +23,7 @@
       "hidden": false,
       "expiryMonths": 1,
       "createdAt": "2026-11-21T21:26:34.482Z",
-      "productPasswordHash": "cfee5d18beb8a3500a35ec6635da814b:c511955c143c6d8704cc303c48ccbcdd",
+      "productPasswordHash": null,
       "showLocation": false,
       "location": ""
     },
