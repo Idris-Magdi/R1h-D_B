@@ -25,6 +25,21 @@
   ],
   "products": [
     {
+      "id": "1795299530263",
+      "title": "Hoodie",
+      "subtitle": "INAWLY سويت شيرت نسائي بلون موحد مع حبل شد كاجوال",
+      "price": "750EGP",
+      "category": "section-3",
+      "region": "region-1",
+      "image": "https://drive.google.com/file/d/1hhhpi6NCYYkJZBR6QGtNUGeYEH_FI0I9/view?usp=drivesdk",
+      "hidden": false,
+      "expiryMonths": 1,
+      "createdAt": "2026-11-21T22:18:50.263Z",
+      "productPasswordHash": null,
+      "showLocation": false,
+      "location": ""
+    },
+    {
       "id": "1795299266591",
       "title": "Soot",
       "subtitle": "سوت أنيقه ومريحه",
