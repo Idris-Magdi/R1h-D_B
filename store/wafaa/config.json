@@ -1,24 +1,8 @@
 {
   "categories": [
     {
-      "id": "tshirts",
-      "label": "T-Shirts"
-    },
-    {
-      "id": "shirts",
-      "label": "Shirts"
-    },
-    {
-      "id": "pants",
-      "label": "Pants"
-    },
-    {
-      "id": "outerwear",
-      "label": "Outerwear"
-    },
-    {
-      "id": "accessories",
-      "label": "Accessories"
+      "id": "section-1",
+      "label": "Dress"
     }
   ],
   "regions": [
@@ -36,6 +20,21 @@
     }
   ],
   "products": [
+    {
+      "id": "1795296394482",
+      "title": "عنصر جديد",
+      "subtitle": "",
+      "price": "1200EGP",
+      "category": "tshirts",
+      "region": "egypt",
+      "image": "https://store-wafaa.pages.dev/",
+      "hidden": false,
+      "expiryMonths": 0,
+      "createdAt": "2026-11-21T21:26:34.482Z",
+      "productPasswordHash": null,
+      "showLocation": false,
+      "location": ""
+    },
     {
       "id": "1795295605532",
       "title": "Dress",
