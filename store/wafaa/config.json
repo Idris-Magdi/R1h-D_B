@@ -1,0 +1,55 @@
+{
+  "categories": [
+    {
+      "id": "tshirts",
+      "label": "T-Shirts"
+    },
+    {
+      "id": "shirts",
+      "label": "Shirts"
+    },
+    {
+      "id": "pants",
+      "label": "Pants"
+    },
+    {
+      "id": "outerwear",
+      "label": "Outerwear"
+    },
+    {
+      "id": "accessories",
+      "label": "Accessories"
+    }
+  ],
+  "regions": [
+    {
+      "id": "egypt",
+      "label": "مصر"
+    },
+    {
+      "id": "saudi",
+      "label": "السعودية"
+    },
+    {
+      "id": "uae",
+      "label": "الإمارات"
+    }
+  ],
+  "products": [
+    {
+      "id": "1795295605532",
+      "title": "Dress",
+      "subtitle": "By wafaa",
+      "price": "100",
+      "category": "accessories",
+      "region": "egypt",
+      "image": "https://drive.google.com/file/d/1O929dbNN-VKOxudEbHd_9fMRPKDszg1G/view?usp=drivesdk",
+      "hidden": false,
+      "expiryMonths": 0,
+      "createdAt": "2026-11-21T21:13:25.532Z",
+      "productPasswordHash": null,
+      "showLocation": false,
+      "location": ""
+    }
+  ]
+}
