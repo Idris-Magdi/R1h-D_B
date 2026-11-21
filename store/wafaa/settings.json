@@ -6,28 +6,18 @@
   "socials": [
     {
       "label": "Instagram",
-      "url": "https://instagram.com",
+      "url": "https://www.instagram.com/betoty17?avpt=bDY4OTBjNW92bGZ3&utm_source=qr",
       "icon": "instagram"
     },
     {
       "label": "Facebook",
-      "url": "https://facebook.com",
+      "url": "https://www.facebook.com/share/1ADXV4Ydqp/?mibextid=wwXIfr",
       "icon": "facebook"
     },
     {
-      "label": "YouTube",
-      "url": "https://youtube.com",
-      "icon": "youtube"
-    },
-    {
       "label": "WhatsApp",
-      "url": "https://wa.me/0000000000",
+      "url": "https://chat.whatsapp.com/IJAFedMcIliKnbGoiEIdna?s=cl&p=i&iam=2",
       "icon": "whatsapp"
-    },
-    {
-      "label": "Email",
-      "url": "mailto:hello@ateliernoir.com",
-      "icon": "mail"
     }
   ],
   "votingEnabled": true,
