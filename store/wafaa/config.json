@@ -7,16 +7,8 @@
   ],
   "regions": [
     {
-      "id": "egypt",
-      "label": "مصر"
-    },
-    {
-      "id": "saudi",
-      "label": "السعودية"
-    },
-    {
-      "id": "uae",
-      "label": "الإمارات"
+      "id": "region-1",
+      "label": "Egypt"
     }
   ],
   "products": [
