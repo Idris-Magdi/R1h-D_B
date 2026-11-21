@@ -13,16 +13,16 @@
   ],
   "products": [
     {
-      "id": "1795296394482",
+      "id": "1795296921306",
       "title": "عنصر جديد",
       "subtitle": "",
-      "price": "1200EGP",
-      "category": "tshirts",
+      "price": "50",
+      "category": "section-1",
       "region": "region-1",
       "image": "https://drive.google.com/file/d/1JVsdUELUWPRWzio4s8vYatJ0LpNAhDtx/view?usp=drivesdk",
       "hidden": false,
-      "expiryMonths": 1,
-      "createdAt": "2026-11-21T21:26:34.482Z",
+      "expiryMonths": 0,
+      "createdAt": "2026-11-21T21:35:21.306Z",
       "productPasswordHash": null,
       "showLocation": false,
       "location": ""
