@@ -1,6 +1,10 @@
 {
   "categories": [
     {
+      "id": "section-4",
+      "label": "Soot"
+    },
+    {
       "id": "section-3",
       "label": "Hoodie"
     },
@@ -20,6 +24,21 @@
     }
   ],
   "products": [
+    {
+      "id": "1795299266591",
+      "title": "عنصر جديد",
+      "subtitle": "",
+      "price": "1400",
+      "category": "section-3",
+      "region": "region-1",
+      "image": "https://drive.google.com/file/d/1qkoSxOpwFGvvQERfrD1og-TYuAzlL_zG/view?usp=drivesdk",
+      "hidden": false,
+      "expiryMonths": 1,
+      "createdAt": "2026-11-21T22:14:26.591Z",
+      "productPasswordHash": null,
+      "showLocation": false,
+      "location": ""
+    },
     {
       "id": "1795298689358",
       "title": "Hoodie",
