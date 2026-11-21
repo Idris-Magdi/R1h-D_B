@@ -1,6 +1,10 @@
 {
   "categories": [
     {
+      "id": "section-2",
+      "label": "Trousers"
+    },
+    {
       "id": "section-1",
       "label": "Dress"
     }
