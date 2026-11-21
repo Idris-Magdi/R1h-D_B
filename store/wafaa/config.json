@@ -17,6 +17,21 @@
   ],
   "products": [
     {
+      "id": "1795298689358",
+      "title": "عنصر جديد",
+      "subtitle": "Muchicaهودي نسائي برقبة بولو مبطنة حرارياً للخريف، مطرزة بشريط بألوان",
+      "price": "800EGP",
+      "category": "section-2",
+      "region": "region-1",
+      "image": "https://drive.google.com/file/d/153sRAwfZpxaTvoFjjZvnZi4fg_3zn00y/view?usp=drivesdk",
+      "hidden": false,
+      "expiryMonths": 1,
+      "createdAt": "2026-11-21T22:04:49.358Z",
+      "productPasswordHash": null,
+      "showLocation": false,
+      "location": ""
+    },
+    {
       "id": "1795298192688",
       "title": "Trousers",
       "subtitle": "بنطلون جينز نسائي كاجوال \nS.M.L.XL.XXL",
