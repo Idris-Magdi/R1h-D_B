@@ -1,6 +1,10 @@
 {
   "categories": [
     {
+      "id": "section-5",
+      "label": "قسم جديد"
+    },
+    {
       "id": "section-4",
       "label": "Soot"
     },
@@ -25,6 +29,36 @@
   ],
   "products": [
     {
+      "id": "1795472625328",
+      "title": "عنصر جديد",
+      "subtitle": "سوت شيك بلون هادي، بتصميم مميز وحزام يحدد الوسط، وبنطلون واسع يديكي لوك أنيق",
+      "price": "1700",
+      "category": "section-4",
+      "region": "region-1",
+      "image": "https://drive.google.com/file/d/1ukIdzUdNvQd9P6Q6fQ80q9XKsKrlT4du/view?usp=drivesdk",
+      "hidden": false,
+      "expiryMonths": 10,
+      "createdAt": "2026-11-23T22:23:45.328Z",
+      "productPasswordHash": null,
+      "showLocation": false,
+      "location": ""
+    },
+    {
+      "id": "1795472369060",
+      "title": "عنصر جديد",
+      "subtitle": "",
+      "price": "1500EGP",
+      "category": "section-4",
+      "region": "region-1",
+      "image": "https://chat.whatsapp.com/K2cjGcfSa3hBWWNJHFB0Rd?s=cl&p=i&iam=2",
+      "hidden": false,
+      "expiryMonths": 10,
+      "createdAt": "2026-11-23T22:19:29.060Z",
+      "productPasswordHash": null,
+      "showLocation": false,
+      "location": ""
+    },
+    {
       "id": "1795299530263",
       "title": "Hoodie",
       "subtitle": "INAWLY سويت شيرت نسائي بلون موحد مع حبل شد كاجوال",
@@ -33,7 +67,7 @@
       "region": "region-1",
       "image": "https://drive.google.com/file/d/1hhhpi6NCYYkJZBR6QGtNUGeYEH_FI0I9/view?usp=drivesdk",
       "hidden": false,
-      "expiryMonths": 1,
+      "expiryMonths": 10,
       "createdAt": "2026-11-21T22:18:50.263Z",
       "productPasswordHash": null,
       "showLocation": false,
@@ -48,7 +82,7 @@
       "region": "region-1",
       "image": "https://drive.google.com/file/d/1qkoSxOpwFGvvQERfrD1og-TYuAzlL_zG/view?usp=drivesdk",
       "hidden": false,
-      "expiryMonths": 1,
+      "expiryMonths": 10,
       "createdAt": "2026-11-21T22:14:26.591Z",
       "productPasswordHash": null,
       "showLocation": false,
@@ -63,7 +97,7 @@
       "region": "region-1",
       "image": "https://drive.google.com/file/d/153sRAwfZpxaTvoFjjZvnZi4fg_3zn00y/view?usp=drivesdk",
       "hidden": false,
-      "expiryMonths": 1,
+      "expiryMonths": 10,
       "createdAt": "2026-11-21T22:04:49.358Z",
       "productPasswordHash": null,
       "showLocation": false,
