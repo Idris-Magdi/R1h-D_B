@@ -29,6 +29,21 @@
   ],
   "products": [
     {
+      "id": "1795472894848",
+      "title": "Soot",
+      "subtitle": "طقم جينز قطعتين، جاكيت وبنطلون بتصميم باتش وورك مميز، ستايل عصري وشيك",
+      "price": "1800",
+      "category": "section-4",
+      "region": "region-1",
+      "image": "https://drive.google.com/file/d/1FWHzo2_8mOLFhLP5dtoPp7A9RnYtsq2c/view?usp=drivesdk",
+      "hidden": false,
+      "expiryMonths": 10,
+      "createdAt": "2026-11-23T22:28:14.848Z",
+      "productPasswordHash": null,
+      "showLocation": false,
+      "location": ""
+    },
+    {
       "id": "1795472625328",
       "title": "عنصر جديد",
       "subtitle": "سوت شيك بلون هادي، بتصميم مميز وحزام يحدد الوسط، وبنطلون واسع يديكي لوك أنيق",
