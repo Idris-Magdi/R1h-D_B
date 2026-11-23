@@ -29,6 +29,21 @@
   ],
   "products": [
     {
+      "id": "1795473220918",
+      "title": "عنصر جديد",
+      "subtitle": "طقم جينز بلون غامق، جاكيت قصير بتقفيلة مميزة وأزرار شيك، مع بنطلون جينز بخصر عالي",
+      "price": "1650",
+      "category": "section-5",
+      "region": "region-1",
+      "image": "https://drive.google.com/file/d/1TSLs03KDYS-SauL2c7SwvbKNecXQImHZ/view?usp=drivesdk",
+      "hidden": false,
+      "expiryMonths": 10,
+      "createdAt": "2026-11-23T22:33:40.918Z",
+      "productPasswordHash": null,
+      "showLocation": false,
+      "location": ""
+    },
+    {
       "id": "1795472894848",
       "title": "Soot",
       "subtitle": "طقم جينز قطعتين، جاكيت وبنطلون بتصميم باتش وورك مميز، ستايل عصري وشيك",
@@ -54,21 +69,6 @@
       "hidden": false,
       "expiryMonths": 10,
       "createdAt": "2026-11-23T22:23:45.328Z",
-      "productPasswordHash": null,
-      "showLocation": false,
-      "location": ""
-    },
-    {
-      "id": "1795472369060",
-      "title": "عنصر جديد",
-      "subtitle": "Aa",
-      "price": "1500EGP",
-      "category": "section-4",
-      "region": "region-1",
-      "image": "https://drive.google.com/file/d/1TSLs03KDYS-SauL2c7SwvbKNecXQImHZ/view?usp=drivesdk",
-      "hidden": false,
-      "expiryMonths": 10,
-      "createdAt": "2026-11-23T22:19:29.060Z",
       "productPasswordHash": null,
       "showLocation": false,
       "location": ""
