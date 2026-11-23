@@ -29,6 +29,21 @@
   ],
   "products": [
     {
+      "id": "1795473457835",
+      "title": "عنصر جديد",
+      "subtitle": "سوت مقاس كبير كاجوال من قماش سميك بتصميم كتل لونية جانبية وسحاب وياقة واقفة وأساور وحافة مضلعة، إطلالة أنيقة وكاجوال،",
+      "price": "1250",
+      "category": "section-4",
+      "region": "region-1",
+      "image": "https://drive.google.com/file/d/1raRy6C7lKkGyjDYSUjVHY0qOCfJD0uDl/view?usp=drivesdk",
+      "hidden": false,
+      "expiryMonths": 10,
+      "createdAt": "2026-11-23T22:37:37.835Z",
+      "productPasswordHash": null,
+      "showLocation": false,
+      "location": ""
+    },
+    {
       "id": "1795473220918",
       "title": "عنصر جديد",
       "subtitle": "طقم جينز بلون غامق، جاكيت قصير بتقفيلة مميزة وأزرار شيك، مع بنطلون جينز بخصر عالي",
