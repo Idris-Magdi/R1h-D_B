@@ -66,7 +66,7 @@
       "category": "section-4",
       "region": "region-1",
       "image": "https://chat.whatsapp.com/K2cjGcfSa3hBWWNJHFB0Rd?s=cl&p=i&iam=2",
-      "hidden": false,
+      "hidden": true,
       "expiryMonths": 10,
       "createdAt": "2026-11-23T22:19:29.060Z",
       "productPasswordHash": null,
