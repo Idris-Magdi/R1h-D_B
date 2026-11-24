@@ -25,6 +25,21 @@
   ],
   "products": [
     {
+      "id": "1795543814278",
+      "title": "Trousers",
+      "subtitle": "Coolane بنطلون نسائي ربيع/صيف ملابس الشارع عتيق مكتب عمل كاجوال أنيق رمادي مخطط فضفاض ساق واسعة فضفاضة حافة منحنية أزرار ألواح متراكبة دافئ",
+      "price": "750EGP",
+      "category": "section-2",
+      "region": "region-1",
+      "image": "https://drive.google.com/file/d/1cv_w_pXCILzBCHRdXyLyrSPB0pMXaii8/view?usp=drivesdk",
+      "hidden": false,
+      "expiryMonths": 10,
+      "createdAt": "2026-11-24T18:10:14.278Z",
+      "productPasswordHash": null,
+      "showLocation": false,
+      "location": ""
+    },
+    {
       "id": "1795542773263",
       "title": "Soot",
       "subtitle": "SHEIN مجموعة بلوزة كاجوال فضفاضة مع فتحات للكتف وطباعة حرفية بأكمام طويلة وبنطال مربعات قطعتان",
