@@ -25,6 +25,21 @@
   ],
   "products": [
     {
+      "id": "1795542773263",
+      "title": "Soot",
+      "subtitle": "SHEIN مجموعة بلوزة كاجوال فضفاضة مع فتحات للكتف وطباعة حرفية بأكمام طويلة وبنطال مربعات قطعتان",
+      "price": "1600EGP",
+      "category": "section-4",
+      "region": "region-1",
+      "image": "https://drive.google.com/file/d/1PwOMA91xxQZYyG9e6f-iUHPYB_zYccZ2/view?usp=drivesdk",
+      "hidden": false,
+      "expiryMonths": 10,
+      "createdAt": "2026-11-24T17:52:53.263Z",
+      "productPasswordHash": null,
+      "showLocation": false,
+      "location": ""
+    },
+    {
       "id": "1795479689089",
       "title": "Hoodie",
       "subtitle": "هودي نسائية بغطاء رأس، أكمام طويلة مع رباط وجيب، ملائمة كاجوال فضفاضة، للعودة إلى المدرسة والارتداء اليومي",
