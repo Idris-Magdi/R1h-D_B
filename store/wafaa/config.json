@@ -25,6 +25,36 @@
   ],
   "products": [
     {
+      "id": "1795669210348",
+      "title": "Trousers",
+      "subtitle": "POPSWAY بنطلون طويل فضفاض واسع الساق للنساء بمقاس كبير، كاجوال بطراز شارع عتيق لطيف مع طباعة حروف كبيرة،",
+      "price": "700EGP",
+      "category": "section-2",
+      "region": "region-1",
+      "image": "https://drive.google.com/file/d/1phPDJa_zkDab6l0lmISqBFXqQgwXBoPP/view?usp=drivesdk",
+      "hidden": false,
+      "expiryMonths": 10,
+      "createdAt": "2026-11-26T05:00:10.348Z",
+      "productPasswordHash": null,
+      "showLocation": false,
+      "location": ""
+    },
+    {
+      "id": "1795669108161",
+      "title": "Trousers",
+      "subtitle": "[80% القطن] SHEIN MOD جينز أزرق فضفاض مقطع بقصة واسعة للنساء ذوات الحجم الكبير",
+      "price": "800EGP",
+      "category": "section-2",
+      "region": "region-1",
+      "image": "https://drive.google.com/file/d/1RRE1xpJTPb9VBTZyAyi6EQmwL7Usfea3/view?usp=drivesdk",
+      "hidden": false,
+      "expiryMonths": 10,
+      "createdAt": "2026-11-26T04:58:28.161Z",
+      "productPasswordHash": null,
+      "showLocation": false,
+      "location": ""
+    },
+    {
       "id": "1795543814278",
       "title": "Trousers",
       "subtitle": "Coolane بنطلون نسائي ربيع/صيف ملابس الشارع عتيق مكتب عمل كاجوال أنيق رمادي مخطط فضفاض ساق واسعة فضفاضة حافة منحنية أزرار ألواح متراكبة دافئ",
