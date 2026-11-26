@@ -25,6 +25,21 @@
   ],
   "products": [
     {
+      "id": "1795709266036",
+      "title": "Trousers",
+      "subtitle": "بنطلون نسائي أحمر جديد للسنة الجديدة بتصميم ألوان جانبية مخططة بقصة فضفاضة وساق واسعة مع جيوب،",
+      "price": "650EGP",
+      "category": "section-2",
+      "region": "region-1",
+      "image": "https://drive.google.com/file/d/14q3zn_kL47MH7-sQKuibTfCTKcXceJOa/view?usp=drivesdk",
+      "hidden": false,
+      "expiryMonths": 10,
+      "createdAt": "2026-11-26T16:07:46.036Z",
+      "productPasswordHash": null,
+      "showLocation": false,
+      "location": ""
+    },
+    {
       "id": "1795708938171",
       "title": "Hoodie",
       "subtitle": "INAWLY بلوزة رياضية فضفاضة مقاس كبير مزدوجة الطبقات بياقة على شكل حرف V وأكمام طويلة منسدلة",
@@ -72,7 +87,7 @@
     {
       "id": "1795708623050",
       "title": "Hoodie",
-      "subtitle": "Collagica Collagica سويت شيرت نسائي بطبعة نمر وأكتاف منسدلة وأكمام طويلة كاجوال ملابس شارع بغطاء رأس وسحاب للسفر بطبعة زيبرا بني للخريف",
+      "subtitle": "Collagica Collagica سويت شيرت نسائي بطبعة نمر وأكتاف منسدلة وأكمام طويلة كاجوال ملابس شارع بغطاء رأس وسحاب",
       "price": "700EGP",
       "category": "section-3",
       "region": "region-1",
